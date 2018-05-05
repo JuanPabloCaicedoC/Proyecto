@@ -164,6 +164,7 @@
     <Content Include="Views\Usuarios\ForgotPass\ForgotPass.aspx" />
     <Content Include="Views\Usuarios\Login\Login.aspx" />
     <Content Include="Views\Usuarios\Participante\Participante.aspx" />
+    <Content Include="Views\Usuarios\Participante\participantes.aspx" />
     <Content Include="Views\Usuarios\Perfiles\Perfiles.aspx" />
     <Content Include="Views\Usuarios\Registro\RegistroDocente.aspx" />
     <Content Include="Views\Usuarios\Registro\RegistroPersonal.aspx" />
@@ -234,6 +235,13 @@
     </Compile>
     <Compile Include="Views\Usuarios\Participante\Participante.aspx.designer.cs">
       <DependentUpon>Participante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Usuarios\Participante\participantes.aspx.cs">
+      <DependentUpon>participantes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Usuarios\Participante\participantes.aspx.designer.cs">
+      <DependentUpon>participantes.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\Usuarios\Perfiles\Perfiles.aspx.cs">
       <DependentUpon>Perfiles.aspx</DependentUpon>
