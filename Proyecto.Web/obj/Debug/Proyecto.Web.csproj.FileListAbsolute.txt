@@ -1,0 +1,231 @@
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\csc.exe
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\csc.exe.config
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\csc.rsp
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\csi.exe
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\csi.exe.config
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\csi.rsp
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Console.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\vbc.exe
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\vbc.exe.config
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\vbc.rsp
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\Proyecto.Web.dll.config
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\Proyecto.Web.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\Proyecto.Web.pdb
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.csprojResolveAssemblyReference.cache
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.dll
+C:\Users\Juan Pablo Caicedo C\source\repos\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.pdb
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csc.exe
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csc.exe.config
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csc.rsp
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csi.exe
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csi.exe.config
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csi.rsp
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.AppContext.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Console.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\vbc.exe
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\vbc.exe.config
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\vbc.rsp
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\Proyecto.Web.dll.config
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\Proyecto.Web.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\Proyecto.Web.pdb
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.csprojResolveAssemblyReference.cache
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.csproj.CoreCompileInputs.cache
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.csproj.CopyComplete
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.dll
+C:\Users\WILMER\Desktop\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.pdb
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csc.exe
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csc.exe.config
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csc.rsp
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csi.exe
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csi.exe.config
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\csi.rsp
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.AppContext.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Console.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\vbc.exe
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\vbc.exe.config
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\vbc.rsp
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\Proyecto.Web.dll.config
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\Proyecto.Web.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\Proyecto.Web.pdb
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.csprojResolveAssemblyReference.cache
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.csproj.CoreCompileInputs.cache
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.csproj.CopyComplete
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.dll
+C:\Users\wilgardo\Desktop\Proyecto\Proyecto.Web\obj\Debug\Proyecto.Web.pdb
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\csc.exe
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\csc.exe.config
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\csc.rsp
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\csi.exe
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\csi.exe.config
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\csi.rsp
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.AppContext.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Console.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\vbc.exe
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\vbc.exe.config
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\vbc.rsp
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\Proyecto.Web.dll.config
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\Proyecto.Web.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\Proyecto.Web.pdb
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\obj\Debug\Proyecto.Web.csprojResolveAssemblyReference.cache
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\obj\Debug\Proyecto.Web.csproj.CoreCompileInputs.cache
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\obj\Debug\Proyecto.Web.csproj.CopyComplete
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\obj\Debug\Proyecto.Web.dll
+C:\Users\wilgardo\Desktop\Proyecto copia\Proyecto.Web\obj\Debug\Proyecto.Web.pdb
